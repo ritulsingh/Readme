@@ -1,18 +1,8 @@
-# Readme
-
-[importent_link](https://packaging.python.org/tutorials/packaging-projects/#uploading-your-project-to-pypi)
-
-
-
-
-# PyImpuyte
+# Number System Converter
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![Generic badge](https://img.shields.io/badge/PyPi-passing-<COLOR>.svg)](https://test.pypi.org/project/PyImpuyte/1.1.5/)
-[![Documentation Status](https://readthedocs.org/projects/pyimpuyte/badge/?version=latest)](https://pyimpuyte.readthedocs.io/en/latest/?badge=latest)
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://bitbucket.csiro.au/projects/DDE/repos/pyimpuyte/browse/LICENSE)
-[![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-370/)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)]()
+[![Python 3.8+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-370/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]()
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
 <span style="font-size:1.5em;">`PyImpuyte` is a Python3.7+ package that simplifies the task of imputing missing values in datasets.
 
