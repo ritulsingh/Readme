@@ -10,7 +10,7 @@
 
 
 ## Contents
-- [Motivation](#-motivation)
+- [Types](##-Types)
 - [Installation](#-installation)
 - [Quick Start](#-quick-start)
 - [Contribute](#-contribute)
@@ -21,10 +21,12 @@
 - [Copyright](#-copyright)
 
 
-## Motivation
-Incomplete data are quite common which can deteriorate statistical inference. As such, the `PyImpuyte` team set out to develop a Python package that simplifies the task of imputing missing values in Australian Government national statistical assets and other micro-data sets.
-
-The development of `PyImpuyte` is motivated by helping micro-data practitioners select and implement advanced imputation methods. `PyImpuyte` adds an additional tool in the toolkit of practitioners seeking to preserve their data and fight information loss that arises from droping observations with missing values.
+## Types
+There are various types of the number system in mathematics. The four most common number system types are:
+ 1. Decimal number system (Base- 10)
+ 2. Binary number system (Base- 2)
+ 3. Octal number system (Base-8)
+ 4. Hexadecimal number system (Base- 16)
 
   #### Main Features
   * Interfaces with `scikit-learn` to provide a customer-centric and efficient way to perform imputation using machine learning algorithms.
