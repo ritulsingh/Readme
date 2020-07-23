@@ -2,19 +2,11 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)]()
 [![Python 3.8+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-370/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]()
 
-<span style="font-size:1.5em;">`PyImpuyte` is a Python3.7+ package that simplifies the task of imputing missing values in datasets.
 
-<p align="center">
-  <img width="530" height="600" src="https://s3-marcus-public.s3-eu-west-1.amazonaws.com/PyImpuyte_1.PNG">
-</p>
-
-<span style="font-size:1.5em;">`PyImpuyte` was built with a strong customer-centric focus and leverages of `scikit-learn`. It brings together various imputation strategies and harnesses <b>machine learning algorithms</b> to improve data coverage.
-
-<span style="font-size:1.5em;">`PyImpuyte` gives the user exactly what they want - hassle free deployment of machine learning algorithms. Simply ingest your data, set your target, pass in a feature matrix and select your chosen imputation strategy. You now have machine generated imputed values appended to your dataframe.
-
-<span style="font-size:1.5em;">To learn more about how to use `PyImpuyte`, check out our <b>[docs](https://pyimpuyte.readthedocs.io/en/latest/)</b> for a step-by-step guide.</span>
+<span style="font-size:1.5em;">`number-system` is a Python 3.7+ package that simplifies the task of converts the decimal number in binary, octal, and hexadecimal or vice versa.
+  
+<span style="font-size:1.5em;">The number system or the numeral system is the system of naming or representing numbers. There are various types of number systems in maths like binary, decimal, etc.</span>
 
 
 ## Contents
