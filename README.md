@@ -28,81 +28,17 @@ There are various types of the number system in mathematics. The four most commo
  3. Octal number system (Base-8)
  4. Hexadecimal number system (Base- 16)
 
-  #### Main Features
-  * Interfaces with `scikit-learn` to provide a customer-centric and efficient way to perform imputation using machine learning algorithms.
-  * Support for numerous imputation strategies and performance metrics, as specified below:
-
-
-  #### Imputation Strategies
-
-  | Univariate            | Generalised Linear Models   | Bagging and Boosted Trees    | Neural Nets
-  | :---------------------| :-------------------------- | :----------------------------| :-----------------------
-  | Mean                  | Linear Regressions          | Bagging Regressor            | Multi-layer Perceptron
-  | Median                | Lasso                       | Extra Trees Regressor        |
-  | Mode                  | Ridge                       | Extreme Gradient Boosting    |
-  |                       |                             | Random Forest Regressor      |
-  |                       |                             | XGBoost, LightGBM, CatBoost  |
-
-
-  #### Performance Metrics
-  |                       |
-  | :---------------------|
-  | Simple error           |
-  | Percentage error      |
-  | Naive forecasting          |
-  | Relative Error      |
-  | Bounded Relative Error         |
-  | Geometric mean      |
-  | Mean Squared Error          |
-  | Normalized Root Mean Squared Error      |
-  | Mean Error         |
-  | Mean Absolute Error      |
-  | Geometric Mean Absolute Error         |
-  | Median Absolute Error      |
-  | Mean Percentage Error |
-  | Mean Absolute Percentage Error |
-  | Median Absolute Percentage Error |
-  | Symmetric Mean Absolute Percentage Error |
-  | Symmetric Median Absolute Percentage Error |
-  | Mean Arctangent Absolute Percentage Error |
-  | Mean Absolute Scaled Error |
-  | Normalized Absolute Error |
-  | Normalized Absolute Percentage Error |
-  | Root Mean Squared Percentage Error |
-  | Root Median Squared Percentage Error |
-  | Root Mean Squared Scaled Error |
-  | Integral Normalized Root Squared Error |
-  | Root Relative Squared Error |
-  | Mean Relative Error |
-  | Median Relative Absolute Error |
-  | Geometric Mean Relative Absolute Error |
-  | Mean Bounded Relative Absolute Error |
-  | Unscaled Mean Bounded Relative Absolute Error |
-  | Mean Directional Accuracy  |
-
 
   #### Versions and Dependencies
   * Python 3.7+
-  * Dependencies:
-      - `missingno` >= 0.4.1
-      - `numpy` >= 1.15.4
-      - `pandas` >= 0.20.3
-      - `scikit-learn` >= 0.20.2
-      - `xgboost` >= 0.83
 
 
 ## Installation
-There are two ways to install the `PyImpuyte` package:
+There are one ways to install the `number-system` package:
 
-- Install `PyImpuyte` from PyPI (recommended):
+- Install `number-system` from PyPI (recommended):
 ```
-pip install PyImpuyte==1.3.5
-```
-- Install `PyImpuyte` from the Bitbucket source:
-```
-git clone https://bitbucket.csiro.au/scm/dde/pyimpuyte.git
-cd pyimpuyte
-python setup.py install
+pip install number-system
 ```
 
 
