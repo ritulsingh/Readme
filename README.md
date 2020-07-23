@@ -2,8 +2,8 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)]()
 [![Python 3.8+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-370/)
-[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](https://github.com/number-system/number-system/blob/master/README.md)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/number-system)
 
 
 <span style="font-size:1.5em;">`number-system` is a Python 3.7+ package that simplifies the task of converts the decimal number in binary, octal, and hexadecimal or vice versa.
@@ -12,7 +12,7 @@
 
 
 ## Contents
-- [Documentation]()
+- [Documentation](https://github.com/number-system/number-system/blob/master/README.md)
 - [Types](##-Types)
 - [Installation](#-installation)
 - [Quick Start](#-quick-start)
