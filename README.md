@@ -51,7 +51,7 @@ print(decimalToBinary(25))
 ...............
 
 ```
-For more information about how to use `number-system`, see our suggested **[template]()**.
+For more information about how to use `number-system`, see our suggested **[template](https://github.com/number-system/number-system/blob/master/README.md)**.
 
 
 ## Contribute
@@ -66,4 +66,4 @@ We welcome all kinds of contributions that improve the performance of the curren
 * See the [Project Page](https://github.com/number-system) page to get in touch with the `number-system` team.
 
 ## Copyright
-`number-system` is distributed under the MIT license. See [LICENSE](https://bitbucket.csiro.au/projects/DDE/repos/pyimpuyte/browse/LICENSE) for details.
+`number-system` is distributed under the MIT license. See [LICENSE](https://github.com/number-system/number-system/blob/master/LICENSE) for details.
