@@ -20,19 +20,6 @@
 - [Developers and Maintainers](#-developers-and-maintainers)
 - [Copyright](#-copyright)
 
-
-## Types
-There are various types of the number system in mathematics. The four most common number system types are:
- 1. Decimal number system (Base- 10)
- 2. Binary number system (Base- 2)
- 3. Octal number system (Base-8)
- 4. Hexadecimal number system (Base- 16)
-
-
-  #### Versions and Dependencies
-  * Python 3.7+
-
-
 ## Installation
 There are one ways to install the `number-system` package:
 
@@ -52,6 +39,17 @@ print(decimalToBinary(25))
 
 ```
 For more information about how to use `number-system`, see our suggested **[template](https://github.com/number-system/number-system/blob/master/README.md)**.
+
+## Types
+There are various types of the number system in mathematics. The four most common number system types are:
+ 1. Decimal number system (Base- 10)
+ 2. Binary number system (Base- 2)
+ 3. Octal number system (Base-8)
+ 4. Hexadecimal number system (Base- 16)
+
+
+  #### Versions and Dependencies
+  * Python 3.7+
 
 
 ## Contribute
